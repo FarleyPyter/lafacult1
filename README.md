@@ -1,3 +1,3 @@
 # 
 
-https://farleypyter.github.io/lafacult/
+https://farleypyter.github.io/lafacult1/
